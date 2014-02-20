@@ -1,0 +1,13 @@
+{
+  "name": "javve-natural-sort",
+  "description": "Natural sort algorithm with unicode support",
+  "version": "1.0.0",
+  "keywords": [
+    "natural sort",
+    "sort",
+    "unicode",
+    "dates"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
